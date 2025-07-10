@@ -1,5 +1,5 @@
 [general]
-working_directory = "/home/paxtonespie/Code/"
+working_directory = "$HOME/Code/"
 
 [window]
 dynamic_title = true
